@@ -1,3 +1,7 @@
+# PLEASE NOTE THAT THIS AIRCRAFT REPOSITORY IS OUTDATED AND SHOULD NO LONGER BE USED. FOR CURRENT VERSIONS USE https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/ASK21/ (stable) OR https://github.com/viktorradnai/flightgear-ask21 (development)
+
+
+
 # Alexander Schleicher - Kaiser ASK21 for FlightGear
 The ASK21 is a tandem-seater glass-fibre glider constructed by Roland Kaiser and first flown in the later 1970s. 
 It is still produced by the glider manufacturer "Alexander Schleicher Flugzeugbau".
